@@ -1,0 +1,52 @@
+
+/*rgb colors */
+body{
+    border: dotted;
+    background-color: rgb(81, 206, 81) ;
+}
+img{
+    border: dotted;
+    background-color:#00ffff ;
+}
+
+/*   hexadecimal colours*/
+h1{
+    background-color: #00ffff;
+}
+
+h2{
+    background-color: #00ffff;
+}
+h3{
+    background-color: #00ffff;
+}
+h4{
+    background-color: #00ffff;
+}
+/* adding padding,margin */
+.item{
+    padding: 5ch;
+    margin: 10vmin;
+    
+    
+}
+
+.item2{
+    position: relative;
+}
+/* adding hover */
+h1:hover{
+    background-color: deepskyblue;
+}
+h2:hover{
+    background-color: deepskyblue;
+}
+h3:hover{
+    background-color: deepskyblue;
+}
+h4:hover{
+    background-color: deepskyblue;
+}
+a:hover{
+    background-color: deepskyblue;
+}
